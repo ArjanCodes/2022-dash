@@ -1,0 +1,5 @@
+**/*.pyc
+.coverage
+htmlcov
+**/.DS_Store
+**/*.log
