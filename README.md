@@ -4,6 +4,6 @@ In this video series, I show you how to set up data visualization using Plotly D
 
 Video part 1: https://youtu.be/XOFrvzWFM7Y.
 
-Video part 2: coming soon.
+Video part 2: https://youtu.be/GlRauKqI08Y.
 
 Video part 3: coming soon.
