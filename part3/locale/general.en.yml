@@ -1,0 +1,10 @@
+---
+en:
+  amount: Amount
+  app_title: Financial Dashboard
+  category: Category
+  month: Month
+  no_data: No data selected
+  select: Select...
+  select_all: Select all
+  year: Year
